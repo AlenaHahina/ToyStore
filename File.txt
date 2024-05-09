@@ -1,0 +1,1 @@
+Toy{id=1, name='Lego', weight=10%}
